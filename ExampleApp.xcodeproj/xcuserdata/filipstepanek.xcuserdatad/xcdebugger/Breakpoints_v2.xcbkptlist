@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0BE2F7A-11B8-4B3E-85AD-D8A923692128"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "130BAB3F-986A-4106-8EBF-E8E070CF2699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleAppTV/Scenes/SettingsScreen/SettingsScreenView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "130BAB3F-986A-4106-8EBF-E8E070CF2699 - 24ca647e54fdd4bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonTermsConditions : some&gt;&gt;.0, &lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonPrivacyPolicy : some&gt;&gt;.0, &lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonCopyrightPolicy : some&gt;&gt;.0, &lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonLicenses : some&gt;&gt;.0, &lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonAboutRecommendations : some&gt;&gt;.0, &lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonLogOut : some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in ExampleAppTV.SettingsScreenView.body.getter : some"
+                  moduleName = "ExampleAppTV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/filipstepanek/Documents/CODE/ExampleApp/ExampleAppTV/Scenes/SettingsScreen/SettingsScreenView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "130BAB3F-986A-4106-8EBF-E8E070CF2699 - 8b447cee0404093f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of ExampleAppTV.SettingsScreenView.buttonTermsConditions : some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in ExampleAppTV.SettingsScreenView.body.getter : some"
+                  moduleName = "ExampleAppTV"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/filipstepanek/Documents/CODE/ExampleApp/ExampleAppTV/Scenes/SettingsScreen/SettingsScreenView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

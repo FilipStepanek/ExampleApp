@@ -19,6 +19,15 @@
       }
     },
     {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory.git",
+      "state" : {
+        "revision" : "587995f7d5cc667951d635fbf6b4252324ba0439",
+        "version" : "2.3.2"
+      }
+    },
+    {
       "identity" : "firebase-ios-sdk",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/firebase/firebase-ios-sdk",
@@ -91,6 +100,15 @@
       }
     },
     {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "769b88d83a42ca8d5572b020c96f47e3690b3796",
+        "version" : "4.4.3"
+      }
+    },
+    {
       "identity" : "nanopb",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/firebase/nanopb.git",
@@ -106,6 +124,24 @@
       "state" : {
         "revision" : "540318ecedd63d883069ae7f1ed811a2df00b6ac",
         "version" : "2.4.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "b8523c1642f3c142b06dd98443ea7c48343a4dfd",
+        "version" : "5.19.3"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "b7af5e6bd9c2987e41730400d1baad13d74a141a",
+        "version" : "3.0.4"
       }
     },
     {

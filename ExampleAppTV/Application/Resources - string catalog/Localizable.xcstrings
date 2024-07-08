@@ -1,0 +1,359 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "about.Recommendations.add.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "add text"
+          }
+        }
+      }
+    },
+    "about.Recommendations.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About recommendations"
+          }
+        }
+      }
+    },
+    "about.RecommendationsView.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About recommendations"
+          }
+        }
+      }
+    },
+    "about.Recommendatios.Title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About recommendation"
+          }
+        }
+      }
+    },
+    "Artist" : {
+
+    },
+    "button.Login" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOG IN"
+          }
+        }
+      }
+    },
+    "copyright.Poicy.adress" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://adress.com/legal/copyright-policy"
+          }
+        }
+      }
+    },
+    "copyright.Poicy.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your desktop, mobile phone or tablet, go to:"
+          }
+        }
+      }
+    },
+    "copyright.Poicy.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright Policy"
+          }
+        }
+      }
+    },
+    "copyright.Policy.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright Policy"
+          }
+        }
+      }
+    },
+    "error.Internet.Connection..Message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please check your connection and try again."
+          }
+        }
+      }
+    },
+    "error.Internet.Connection.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Internet Connection"
+          }
+        }
+      }
+    },
+    "Home" : {
+
+    },
+    "home.TabBar.Titlee" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "licenses.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Licenses"
+          }
+        }
+      }
+    },
+    "licesnes.add.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "add text "
+          }
+        }
+      }
+    },
+    "listen.TO.What.You.Love" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listen to what you love"
+          }
+        }
+      }
+    },
+    "log.Out.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log out"
+          }
+        }
+      }
+    },
+    "login.Screen.Text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore songs, playlist, podcasts, and more on PULSE."
+          }
+        }
+      }
+    },
+    "logo.LaunchScreen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PULSE"
+          }
+        }
+      }
+    },
+    "logo.Login.Screen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PULSE"
+          }
+        }
+      }
+    },
+    "newForYou.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New for You"
+          }
+        }
+      }
+    },
+    "privacy.Policy.adress" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://adress.com/legal/privacy-policy"
+          }
+        }
+      }
+    },
+    "privacy.Policy.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your desktop, mobile phone or tablet, go to:"
+          }
+        }
+      }
+    },
+    "privacy.Policy.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        }
+      }
+    },
+    "Search" : {
+
+    },
+    "search.TabBar.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "Settings" : {
+
+    },
+    "settings.TabBar.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "Song Name" : {
+
+    },
+    "Sounds Items" : {
+
+    },
+    "term.Conditions.Title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "terms.Conditions.adress" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https://adress.com/legal"
+          }
+        }
+      }
+    },
+    "terms.Conditions.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your desktop, mobile phone or tablet, go to:"
+          }
+        }
+      }
+    },
+    "terms.Conditions.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "top.Songs.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Songs"
+          }
+        }
+      }
+    },
+    "topAlbums.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Albums"
+          }
+        }
+      }
+    },
+    "user.name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "defaultUser"
+          }
+        }
+      }
+    },
+    "your.Library.TabBar.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Library"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

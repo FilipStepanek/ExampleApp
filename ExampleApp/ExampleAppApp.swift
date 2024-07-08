@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
+import Firebase
 
 @main
 struct ExampleAppApp: App {
+    init() {
+        FirebaseApp.configure()
+        }
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(expandSheet: .constant(true), animation: Namespace().wrappedValue)
         }
     }
 }
